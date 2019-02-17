@@ -3,7 +3,7 @@
 This repo includes extensions and workflow examples for being able to attach
 an arbitrary number of GPG signatures to a given commit or tag.
 
-Git already supports commit signing. These tools are intended to compliment
+Git already supports commit signing. These tools are intended to complement
 that support by allowing a code reviewer and/or release engineer attach
 their signatures as well.
 
